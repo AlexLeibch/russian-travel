@@ -50,7 +50,7 @@ body {
 }
 
 .lead {
-    max-width: 984px;
+    max-width: 1184px;
     margin: 56px auto 0;
 }
 
@@ -78,7 +78,10 @@ body {
 .lead__image {
     width: 100%;
     margin: 64px auto 0;
+    object-fit: contain;
+
 }
+
 
 .lead__caption {
     margin: 0;
@@ -91,4 +94,65 @@ body {
     letter-spacing: 0.15em;
     text-transform: uppercase;
     color: #FFFFFF;
+}
+
+/* intro стили */
+
+.intro {
+    max-width: 984px;
+    display: flex;
+    flex-direction: column;
+    margin: 92px auto 0;
+}
+
+.intro__title {
+    
+    font-weight: bold;
+    font-size: 54px;
+    line-height: 58px;
+    color: #FFFFFF;
+    margin: 0 auto 0 0;
+}
+
+.intro__text {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 163%;
+    color: #FFFFFF;
+    max-width: 683px;
+    margin: 40px 0 auto 0;
+    
+}
+
+.intro__list {
+    font-weight: bold;
+    list-style-type: none;
+    padding: 0;
+    margin: 33px auto 0 0;
+}
+
+.intro__item {
+    font-size: 13px;
+    line-height: 20px;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.intro__item-numbers {
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.photo-grid {
+    max-width: 1184px;
+    display: grid;
+    grid-template-columns:repeat(auto-fill,284px);
+    grid-gap: 16px;
+    margin: 92px auto 0;
+}
+
+.photo-grid__item {
+    width: 100%;
+    height: auto;
 }
