@@ -7,3 +7,20 @@
     color: #FFFFFF;
     margin: 0;
 }
+
+@media (max-width: 1023px) {
+    .place__title {
+        font-size: 42px;
+        line-height: 110%;
+        padding-right: 50px;
+    }
+}
+
+@media (max-width : 767px) {
+	.place__title {
+        font-size: 32px;
+        line-height: 35px;
+        max-width: 340px;
+        padding: 0;
+    }
+}
