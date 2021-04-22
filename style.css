@@ -259,6 +259,9 @@ body {
     max-width: 560px;
 }
 
+.cover__link {
+    text-decoration: none;
+}
 .cover__subtitle {
     font-family: Inter;
     font-style: normal;
