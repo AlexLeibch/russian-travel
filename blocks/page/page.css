@@ -8,3 +8,9 @@
     width: 100%;
     padding-top: 28px;
 }
+
+@media (max-width: 424px) {
+    .page {
+        padding-top: 16px;
+    }
+}
