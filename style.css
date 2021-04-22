@@ -240,7 +240,6 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    position: relative;
     text-decoration: none;
     margin: 92px auto 0;   
 }
