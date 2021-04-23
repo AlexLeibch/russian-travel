@@ -11,8 +11,8 @@
     }
 }
 
-@media (max-width: 425px) {
-	.lead__image {
+@media (max-width: 767px) {
+    .lead__image {
         margin: 40px auto 0;
     }
 }

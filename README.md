@@ -13,4 +13,6 @@
 **Используемые технологии**
 BEM, CSS3, HTML5, FIGMA 
 
+### Финальная версия работы
+[Russia-travel](https://alexleibch.github.io/russian-travel/)
 
