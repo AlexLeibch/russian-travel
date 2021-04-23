@@ -16,9 +16,13 @@
         max-width: 720px;
     }
 }
-
+@media (max-width : 767px) {
+	.header {
+        max-width: 390px;
+    }
+}
 @media (max-width : 424px) {
 	.header {
-        max-width: 288 x;
+        max-width: 343px;
     }
 }
