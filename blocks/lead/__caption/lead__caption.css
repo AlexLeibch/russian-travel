@@ -11,17 +11,17 @@
 }
 
 
-@media (max-width : 1023px) {
+@media (max-width: 1023px) {
 	.lead__caption {
         max-width: 720px;
     }
 }
-@media (max-width : 767px) {
+@media (max-width: 767px) {
 	.lead__caption {
         max-width: 390px;
     }
 }
-@media (max-width : 424px) {
+@media (max-width: 424px) {
 	.lead__caption {
         max-width: 343px;
     }
