@@ -19,7 +19,7 @@
     }
 }
 
-@media (max-width: 690px) {
+@media (max-width: 640px) {
     .footer {
         display: block;
         width: 100%;
