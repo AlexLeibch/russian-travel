@@ -5,23 +5,23 @@
     margin: 92px auto 0;
 }
 
-@media (max-width : 1279px) {
+@media (max-width: 1279px) {
 	.intro {
         max-width: 928px;
     }
 }
 
-@media (max-width : 1023px) {
+@media (max-width: 1023px) {
 	.intro {
         max-width: 720px;
     }
 }
-@media (max-width : 767px) {
+@media (max-width: 767px) {
 	.intro {
         max-width: 390px;
     }
 }
-@media (max-width : 424px) {
+@media (max-width: 424px) {
 	.intro {
         max-width: 288px;
     }
