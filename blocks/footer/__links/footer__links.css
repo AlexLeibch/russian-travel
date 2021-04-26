@@ -12,3 +12,9 @@
         padding-left: 16px;
     }
 }
+
+@media (max-width: 424px) {
+    .footer__links {
+        margin-bottom: 15px;
+    }
+}

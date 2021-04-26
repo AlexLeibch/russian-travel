@@ -10,6 +10,7 @@
 @media (max-width: 1023px) {
     .footer {
         width: calc(100% - 24px*2);
+        margin: 74px auto 0;
     }
 
 }

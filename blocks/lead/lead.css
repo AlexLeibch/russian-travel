@@ -17,3 +17,8 @@
     }
 }
 
+@media (max-width: 424px) {
+    .lead {
+        margin: 39px auto 0 auto;
+    }
+}

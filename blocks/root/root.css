@@ -15,3 +15,9 @@
     text-rendering: optimizeLegibility;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 768px) {
+    .root {
+      min-width: 320px;
+    }
+  }

@@ -20,7 +20,7 @@
         margin: 88px auto 0;
         grid-template-columns: repeat(auto-fill,350px);
         grid-row-gap: 16px;
-        grid-column-gap: 16px;
+        grid-column-gap: 19px;
         max-width: 720px;
     }
 }
@@ -34,6 +34,7 @@
 
 @media (max-width: 424px) {
 	.photo-grid {
-        max-width: 288px;
+        max-width: 283px;
+        margin: 55px auto 0;
     }
 }

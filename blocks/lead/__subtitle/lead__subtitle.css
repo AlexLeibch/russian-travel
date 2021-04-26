@@ -15,4 +15,10 @@
         line-height: 1.25;
     }
 }
+
+@media (max-width: 424px) {
+    .lead__subtitle {
+        margin: 14px auto 0 auto;
+    }
+}
  

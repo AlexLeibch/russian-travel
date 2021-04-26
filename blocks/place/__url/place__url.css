@@ -7,3 +7,9 @@
     text-decoration-line: underline;
     color: #FFFFFF;
 }
+
+@media (max-width: 424px) {
+    .place__url {
+        margin-left: 16px;
+    }
+}
