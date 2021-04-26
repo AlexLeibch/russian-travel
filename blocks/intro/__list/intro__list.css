@@ -5,3 +5,8 @@
     margin: 33px auto 0 0;
 }
 
+@media (max-width: 1279px) {
+    .intro__list {
+        margin: 28px auto 0 0;
+    }
+}

@@ -33,7 +33,7 @@
 
 @media (max-width : 1279px) {
 	.cover {
-        min-height: 562px;
+        max-height: 640px;
         width: 100%;
     }
 }
