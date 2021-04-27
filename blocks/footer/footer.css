@@ -1,6 +1,6 @@
 .footer {
     width: calc(100% - 48px*2);
-    margin: 80px auto 0;
+    margin: 77px auto 0;
     display: flex;
     justify-content: space-between;
     padding-bottom: 24px;
@@ -26,5 +26,11 @@
         display: block;
         width: 100%;
         min-width: 240px;
+    }
+}
+
+@media (max-width: 424px) {
+    .footer {
+        margin: 69px auto 0;
     }
 }
