@@ -45,7 +45,7 @@
 @import url(../blocks/cover/__page/cover__page.css);
 /* стили footer */
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__copyright/footer_copyright.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/links/links.css);
 /* стили navigation */
 @import url(../blocks/navigation/navigation.css);
