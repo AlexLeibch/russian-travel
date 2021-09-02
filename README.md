@@ -6,7 +6,7 @@
 Ссылка на проект: 
   [Russia-travel](https://alexleibch.github.io/russian-travel/)
   
-  [!Watch the video](./public/russian-travel.gif)
+  ![Watch the video](./public/russian-travel.gif)
 
 **Описание**
 Одностраничный сайт, свёрстанный по макету из Figma с целью изучения и применения адаптивной вёрстки.
