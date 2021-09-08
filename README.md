@@ -1,7 +1,7 @@
 <h1 align="center"> Путешествие по России
 </h1>
 
-## "Путешествие по России" Третья проектная работа по учебному курсу "Веб - разработка" [Yandex.Practicum](https://praktikum.yandex.ru "Яндекс Практикум")
+## "Путешествие по России" Проектная работа по учебному курсу "Веб - разработка" [Yandex.Practicum](https://praktikum.yandex.ru "Яндекс Практикум")
 
 Ссылка на проект: 
   [Russia-travel](https://alexleibch.github.io/russian-travel/)
